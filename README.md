@@ -34,7 +34,7 @@ Foros de reddit:
    * [Dracula][page4]
 
 
-All the rights of the works to their respective authors, I am not the author, nor the intellectual owner of any artistic work made, and hosted in this repository
+All the rights of the works to their respective authors, I am not the author, nor the intellectual owner of any artistic work made and hosted in this repository
 
 [page1]: https://www.deviantart.com/
 [page2]: https://www.pixiv.net/en/
