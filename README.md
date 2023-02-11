@@ -33,6 +33,7 @@ Foros de reddit:
  **Color Themes:**
    * [Dracula][page4]
 
+and unknown sources.
 
 All the rights of the works to their respective authors, I am not the author, nor the intellectual owner of any artistic work made and hosted in this repository
 
