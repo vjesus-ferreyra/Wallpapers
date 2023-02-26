@@ -24,10 +24,10 @@ In this repository, there are find some pictures that i use like a phone and des
 The source of the pictures is:
 
 * [Deviantart][page1]
-* [Pixiv][page2] \
+* [Pixiv][page2]
 * [ArtStation][page5]
 
-Foros de reddit:
+Reddit Forums:
    * [Wallpaper (Computer Desktops/Backgrounds)][page3]
 
  **Color Themes:**
