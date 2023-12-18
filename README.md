@@ -1,4 +1,4 @@
-# Wallapers para el celular y PC / Wallpapers for phone and PC
+# Wallpers para el celular y PC / Wallpapers for phone and PC
 
 En este repositorio se encuentran algunas imágenes que yo uso como fondo de pantalla tanto de escritorio como de movil.
 
